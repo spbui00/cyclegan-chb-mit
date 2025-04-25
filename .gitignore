@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignore chbmit data
+data/chbmit
+checkpoints/
+results*/
